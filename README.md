@@ -1,4 +1,4 @@
-This program compare the matrix multiplication runtime of these algorithms:
+This program compares the matrix multiplication run-time of these algorithms:
 
 - Classical matrix multiplication 
 - Strassen's matrix multiplication
